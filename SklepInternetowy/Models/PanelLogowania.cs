@@ -9,7 +9,7 @@ namespace SklepInternetowy.Models
     public class PanelLogowania
     {
         private string _login = "admin";
-        private string _haslo = "1234";
+        private string _haslo = "12345";
         public string login;
         public string haslo;
 
